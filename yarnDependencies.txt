@@ -1,0 +1,6 @@
+yarn add mongoose
+yarn add axios
+yarn add next-auth
+yarn add @auth/mongodb-adapter mongodb
+
+kuwang pani
